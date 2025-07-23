@@ -22,7 +22,7 @@
 
 ## 🔽 دانلود برنامه (ویندوز)
 
-[![Download](https://img.shields.io/badge/Download%20Installer-v1.0.0-blue)](https://github.com/sbo2526/dns-switcher/releases/download/v1.0.0/GamingDNS_Setup.exe)
+[![Download](https://img.shields.io/badge/Download%20Installer-v1.0.0-blue)]https://github.com/sbo2526/dns-switcher/releases/download/Version/GamingDNS.1.0.0.0._Setup.exe)
 
 📁 نسخه: `1.0.0`  
 📅 تاریخ انتشار: `2025/07/23`  
