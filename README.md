@@ -3,7 +3,7 @@
 🎯 نرم‌افزاری ساده و سبک برای تغییر سریع DNS در ویندوز با یک کلیک.
 
 ## 🖼️ اسکرین‌شات
-![screenshot]([images/screenshot.png](https://github.com/sbo2526/dns-switcher/blob/main/images/%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%86%20%D8%B4%D8%A7%D8%AA%20%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87.png))
+![screenshot]([images/اسکرین شات برنامه.png)
 
 ---
 
