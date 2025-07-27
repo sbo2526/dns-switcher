@@ -1,43 +1,44 @@
-{
- {
-    "server": "www.tcpopenport.website.",
-    "port": "9741",
-    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
-    "ping": "90"
-  },
-  {
-    "server": "www.hostingprivate.icu.",
-    "port": "8888",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "ping": "108"
-  },
-  {
-    "server": "www.tcpopenport.website.",
-    "port": "9741",
-    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
-    "ping": "90"
-  },
-  {
-    "server": "www.hostingprivate.icu.",
-    "port": "8888",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "ping": "106"
-  },
-  {
-    "server": "www.tcpopenport.website.",
-    "port": "9741",
-    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
-    "ping": "90"
-  },
-  {
-    "server": "www.tcpopenport.website.",
-    "port": "9741",
-    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
-    "ping": "89"
-  },
-  {
-    "server": "www.tcpclosedport.store.",
-    "port": "9741",
-    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
-    "ping": "91"
-  }
+[
+    {
+        "server": "www.tcpopenport.website.",
+        "port": "9741",
+        "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
+        "ping": "90"
+    },
+    {
+        "server": "www.hostingprivate.icu.",
+        "port": "8888",
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "ping": "108"
+    },
+    {
+        "server": "www.tcpopenport.website.",
+        "port": "9741",
+        "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
+        "ping": "90"
+    },
+    {
+        "server": "www.hostingprivate.icu.",
+        "port": "8888",
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "ping": "106"
+    },
+    {
+        "server": "www.tcpopenport.website.",
+        "port": "9741",
+        "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
+        "ping": "90"
+    },
+    {
+        "server": "www.tcpopenport.website.",
+        "port": "9741",
+        "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
+        "ping": "89"
+    },
+    {
+        "server": "www.tcpclosedport.store.",
+        "port": "9741",
+        "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
+        "ping": "91"
+    }
+]
